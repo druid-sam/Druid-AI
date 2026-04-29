@@ -1,0 +1,20 @@
+# Changelog
+
+All notable changes to the Druid AI Agent project will be documented in this file.
+
+---
+
+## v1.0.0 — Initial Release
+- Established project repository structure
+- Added professional README documentation
+- Created structured skills registry (`skills.json`)
+- Added technical documentation (`docs.md`)
+- Configured GitHub Actions workflow automation
+
+---
+
+## v1.1.0 — Capability Expansion
+- Enhanced blockchain analytics framework
+- Improved reporting and monitoring architecture
+- Strengthened automation workflows
+- Updated project positioning for ecosystem scalability
