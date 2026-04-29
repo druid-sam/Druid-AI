@@ -1,0 +1,36 @@
+{
+  "agent_name": "Druid",
+  "version": "1.0.0",
+  "status": "active",
+  "category": "AI Agent",
+  "description": "An intelligent AI agent focused on blockchain ecosystems, automation, analytics, and strategic insights.",
+  "skills": [
+    {
+      "name": "Blockchain Analytics",
+      "level": "advanced",
+      "description": "Monitors and interprets blockchain activity for actionable intelligence."
+    },
+    {
+      "name": "Market Intelligence",
+      "level": "advanced",
+      "description": "Tracks trends, token movements, and ecosystem performance."
+    },
+    {
+      "name": "Workflow Automation",
+      "level": "intermediate",
+      "description": "Automates repetitive tasks and reporting pipelines."
+    },
+    {
+      "name": "Research & Reporting",
+      "level": "advanced",
+      "description": "Generates structured insights and strategic reports."
+    }
+  ],
+  "facilities": [
+    "API Integration",
+    "GitHub Workflows",
+    "Real-Time Monitoring",
+    "Cloud Deployment Support",
+    "Cross-Platform Accessibility"
+  ]
+}
